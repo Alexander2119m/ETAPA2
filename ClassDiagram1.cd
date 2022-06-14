@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ETAPA2B.ClassPadre">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACEAAAgAIEAGAAgAAAAIEAAgAAAAAAAgAAAAA=</HashCode>
+      <FileName>ClassPadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETAPA2B.Ficha_Usuario">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ficha_Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETAPA2B.Ficha_Vendedor">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACEAAAAAAAAAAAAAAAAAEAAAAgAAAAEAAAIAA=</HashCode>
+      <FileName>Ficha_Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETAPA2B.Ficha_Administrador">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAAAAEAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Ficha_Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETAPA2B.Requisitos">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Requisitos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
